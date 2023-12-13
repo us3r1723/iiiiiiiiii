@@ -1,0 +1,16 @@
+[Installation path guidance]
+
+
+Please install a folder in the compressed file to the folder
+[C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods].
+(*** Require installation of Content Patcher mod ***)
+
+----------------------------------------------------------------------------------------------------
+
+* This file contains 112 retextures of shirts.
+
+* Each retexture contains various colors and slightly different versions of texture.
+
+----------------------------------------------------------------------------------------------------
+
+*** UNAUTHORIZED MODIFICATION OR REDISTRIBUTION STRICTLY PROHIBITED ***
